@@ -1,0 +1,78 @@
+.content{
+    font-family: arial, sans-serif;
+    margin: center;
+    padding:10px;
+    background-color:white;
+
+}
+.content-header{
+    background: blue;
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+    position:unset;
+    padding:0 0 %;
+    
+}
+.final{
+    font: italic;
+    color:black;
+}
+
+.watsswap{
+  position:fixed; 
+  bottom: 420px;
+  right: 50px;
+  z-index: 9999;
+  color:black;
+  font-family: arial, sans-serif;
+
+}    
+.content-main{
+    font: arial, sans-serif;
+    text-align:center;
+    color: bisque;
+    background: blue;
+    font-size: 40px;
+    padding: 100px;
+    margin: center
+    display:flex
+
+}
+
+
+.content-fotos{
+    display:inline-block;
+    margin:10px;
+    font-size:30px ;
+    
+    
+}
+.content-font{
+    font-size: 50px;
+    
+}
+
+ .content-view-more{
+    color: aquamarine;
+    text-decoration: none;
+ }
+
+
+    
+
+ 
+ 
+
+
+.content-footer{
+    background-color:rgb(3, 3, 21);
+    color:white;
+    padding: 10px;px;
+    text-align: center;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position:fixed;
+
+}
